@@ -14,7 +14,8 @@
                 - Gdir: Angle map (Grid size must be equal to "Magnitue map"). 
                     This grid give information of angular direction to the color wheel.
                 
-          Output - mapping: Mapped image which color is assigned corresponding to the magnitude and angle from the generated color wheel.
+          Output - mapping: Mapped image which color is assigned corresponding 
+                    to the magnitude and angle from the generated color wheel.
 
 
 ## ※ To generate a color wheel, i modify a matlab code from:
