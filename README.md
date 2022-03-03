@@ -18,6 +18,6 @@
                     to the magnitude and angle from the generated color wheel.
 
 
-#### ※ To generate a color wheel, i modify a matlab code from:
+#### ※ To generate a color wheel, i modified a matlab code from:
 https://kr.mathworks.com/matlabcentral/answers/442739-how-to-plot-a-smooth-color-wheel
 (Author: "Image Analyst") 
