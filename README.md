@@ -19,5 +19,5 @@
 
 
 #### ※ To generate a color wheel, i modified a matlab code from:
-https://kr.mathworks.com/matlabcentral/answers/442739-how-to-plot-a-smooth-color-wheel
-(Author: "Image Analyst") 
+          Author: "Image Analyst"
+          https://kr.mathworks.com/matlabcentral/answers/442739-how-to-plot-a-smooth-color-wheel
