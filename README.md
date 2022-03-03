@@ -1,5 +1,5 @@
 # ColorWheelMapping.m
-- Color mapping with magnitude and angle maps
+- Color mapping with given magnitude and angle maps
 
 - 2022/02/18 (Y/M/D)
 - Autor:  Semin Cheon. M.D/Ph.D integrated course. MDAIL(KAIST).
